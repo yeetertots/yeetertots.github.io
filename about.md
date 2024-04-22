@@ -9,7 +9,7 @@ permalink: /about/
     }
 </style>
 <div class="aligncenter">
-    <img src="./images/me.JPEG" alt="me" height="400" width="225">
+    <img src="images/me.JPEG" alt="me" height="400" width="225">
 </div>
 <br><br>
 
